@@ -32,6 +32,6 @@ With this project, we aim to enhance campus connectivity and reduce the reliance
    ```bash
    git clone <repository_url>
    cd CampusConnect
+<img width="1573" height="811" alt="{55BCC36B-522B-411D-8C0B-2BB0EF485876}" src="https://github.com/user-attachments/assets/8e1a7e94-c6dd-4818-bb8c-72b39aac3c6c" />
 
-   <img width="1600" height="816" alt="{DA0FD24F-E255-485B-BD9C-B19D31BBE22F}" src="https://github.com/user-attachments/assets/a554ab1f-7f9f-4efd-9205-e19a1dea0ed9" />
 
