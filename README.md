@@ -4,7 +4,7 @@
 **CampusConnect**
 
 ## Project Description
-CampusConnect is a decentralized platform built on the Ethereum blockchain that allows students and faculty members of an academic institution to interact. This platform will enable users to register, post announcements, and stay connected with each other securely on-chain.
+CampusConnect is decentralized platform built on the Ethereum blockchain that allows students and faculty members of an academic institution to interact. This platform will enable users to register, post announcements, and stay connected with each other securely on-chain.
 
 The project leverages the power of smart contracts to provide a transparent and immutable environment for communication and registration on campus.
 
