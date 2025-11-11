@@ -9,7 +9,7 @@ CampusConnect is a decentralized platform built on the Ethereum blockchain that 
 The project leverages the power of smart contracts to provide a transparent and immutable environment for communication and registration on campus.
 
 ## Project Vision
-The vision behind CampusConnect is to create a secure and open platform for students and faculty, allowing them to communicate seamlessly while promoting transparency, efficiency, and decentralization in educational institutions.
+The vision behind CampusConnect is to createsecure and open platform for students and faculty, allowing them to communicate seamlessly while promoting transparency, efficiency, and decentralization in educational institutions.
 
 With this project, we aim to enhance campus connectivity and reduce the reliance on centralized systems for announcements, fostering trust among users.
 
